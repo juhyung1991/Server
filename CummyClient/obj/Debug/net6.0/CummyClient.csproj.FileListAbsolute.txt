@@ -1,0 +1,15 @@
+C:\Users\juhyu\source\repos\Server\CummyClient\bin\Debug\net6.0\CummyClient.exe
+C:\Users\juhyu\source\repos\Server\CummyClient\bin\Debug\net6.0\CummyClient.deps.json
+C:\Users\juhyu\source\repos\Server\CummyClient\bin\Debug\net6.0\CummyClient.runtimeconfig.json
+C:\Users\juhyu\source\repos\Server\CummyClient\bin\Debug\net6.0\CummyClient.dll
+C:\Users\juhyu\source\repos\Server\CummyClient\bin\Debug\net6.0\CummyClient.pdb
+C:\Users\juhyu\source\repos\Server\CummyClient\obj\Debug\net6.0\CummyClient.csproj.AssemblyReference.cache
+C:\Users\juhyu\source\repos\Server\CummyClient\obj\Debug\net6.0\CummyClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juhyu\source\repos\Server\CummyClient\obj\Debug\net6.0\CummyClient.AssemblyInfoInputs.cache
+C:\Users\juhyu\source\repos\Server\CummyClient\obj\Debug\net6.0\CummyClient.AssemblyInfo.cs
+C:\Users\juhyu\source\repos\Server\CummyClient\obj\Debug\net6.0\CummyClient.csproj.CoreCompileInputs.cache
+C:\Users\juhyu\source\repos\Server\CummyClient\obj\Debug\net6.0\CummyClient.dll
+C:\Users\juhyu\source\repos\Server\CummyClient\obj\Debug\net6.0\refint\CummyClient.dll
+C:\Users\juhyu\source\repos\Server\CummyClient\obj\Debug\net6.0\CummyClient.pdb
+C:\Users\juhyu\source\repos\Server\CummyClient\obj\Debug\net6.0\CummyClient.genruntimeconfig.cache
+C:\Users\juhyu\source\repos\Server\CummyClient\obj\Debug\net6.0\ref\CummyClient.dll
